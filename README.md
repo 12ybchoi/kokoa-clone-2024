@@ -1,3 +1,3 @@
-#Kokoa Clone 2024 Update
+#Title: Kokoa Clone 2024 Update
 
-Learning HTML and CSS
+Description: Learning HTML and CSS
